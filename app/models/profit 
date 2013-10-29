@@ -1,0 +1,3 @@
+class profit < ActiveRecord::Base
+  belongs_to : user
+end
